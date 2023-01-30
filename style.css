@@ -1,7 +1,33 @@
-HR {
+hr {
+  color: gray;
+  background-color: gray;
+  background: gray;
+}
+
+.fsize {
+  height: 5px;
+}
+
+.maths{
+  color: blue;
+}
+
+.algebra{
   color: red;
 }
 
-.FSIZE {
-  size: 5;
+.russian{
+  color: green;
+}
+
+.chemistry{
+  color: #9600c8;
+}
+
+.maths, .russian, .algebra, .chemistry {
+  background-color: #c8c8c8;
+}
+
+h1, h2, p {
+  text-align: center;
 }

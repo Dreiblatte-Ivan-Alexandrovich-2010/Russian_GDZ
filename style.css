@@ -32,7 +32,11 @@ hr {
   color: rgb(255, 255, 0);
 }
 
-.maths, .russian, .algebra, .chemistry, .geometry, .physics {
+.info {
+  color: #00ffff
+}
+
+.maths, .russian, .algebra, .chemistry, .geometry, .physics, .info {
   background-color: #c8c8c8;
 }
 

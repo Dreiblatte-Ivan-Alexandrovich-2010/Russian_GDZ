@@ -24,7 +24,11 @@ hr {
   color: #9600c8;
 }
 
-.maths, .russian, .algebra, .chemistry {
+.geometry {
+  color: rgb(255, 170, 0);
+}
+
+.maths, .russian, .algebra, .chemistry, .geometry {
   background-color: #c8c8c8;
 }
 

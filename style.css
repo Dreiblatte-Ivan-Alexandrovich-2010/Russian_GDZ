@@ -43,3 +43,7 @@ hr {
 h1, h2, p {
   text-align: center;
 }
+
+div {
+  border-radius: 10px;
+}
